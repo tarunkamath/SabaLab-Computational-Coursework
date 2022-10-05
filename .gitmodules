@@ -1,0 +1,3 @@
+[submodule "MathToolsforNeuroscience"]
+	path = MathToolsforNeuroscience
+	url = https://github.com/ebatty/MathToolsforNeuroscience
