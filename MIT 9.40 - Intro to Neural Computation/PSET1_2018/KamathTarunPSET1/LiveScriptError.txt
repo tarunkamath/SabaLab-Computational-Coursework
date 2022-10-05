@@ -1,0 +1,2 @@
+The pdf version of the live script file may not open immediately (or you may need to try and open it a couple of times). Please refer to the live script file if it does not work immediately. The export to PDF is kinda buggy.
+- Tarun Kamath
